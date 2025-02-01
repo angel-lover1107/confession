@@ -49,9 +49,9 @@ document.addEventListener('DOMContentLoaded', function() {
             In the "wanting to always be by your side" sense.<br>
             In the "dreaming about you even after I’m awake" sense.<br><br>
 
-            I fell for your way of talking, your hair, naturally brown eyes, and your voice - the sweetest sound my ears have ever heard, like a melody they never want to stop listening to.<br>
+            I fell for your way of talking, your naturally brown eyes, your long curly hair and your voice - the sweetest sound my ears have ever heard, like a melody they never want to stop listening to.<br>
 
-            I value your feelings, morals, and work ethic highly, and I never want to change your "dreaminess" or anything else about yourself.<br><br>
+            I value your feelings, morals, and work ethic highly, and I never want you to change your "dreaminess" or anything else about yourself.<br><br>
             I know you don't like dramatic or poetic lines but want to quote<br>
             "हसरतें मचल गईं जब आपको देखा एक पल के लिए,
             वो दीवानगी क्या होगी जब आप मिलेंगे उम्र भर के लिए 💖"<br><br>
